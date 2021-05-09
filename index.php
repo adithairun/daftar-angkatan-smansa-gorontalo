@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Daftar Nama Angkatan SMAN 1 Gorontalo</title>
+	<title>Daftar Nama Angkatan SMAN 1 Gorontalo</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel = "stylesheet" type="text/css" href="asset/bootstrap.min.css" />
