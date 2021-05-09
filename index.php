@@ -66,6 +66,12 @@
             <img class="img-fluid img-thumbnail" src="img/aesthetic.jpg" alt="">
           </a>
     </div>
+    <div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.instagram.com/alverion.smansa/" class="d-block mb-4 h-100">
+	  <p> Alverion'21</p>
+            <img class="img-fluid img-thumbnail" src="img/alverion.jpeg" alt="">
+          </a>
+    </div>
 
 
 
