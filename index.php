@@ -82,7 +82,9 @@
 <div class="footer">
 
     <font color="black"> Copyright &copy; 1951 - <?=date('Y'); ?><a href="http://sma1gorontalo.sch.id" target="_blank"> SMA NEGERI 1 GORONTALO</a>
-
+	<br>
+	<font color="black"> Want to Contribute ? <a href="https://github.com/adithairun/daftar-angkatan-smansa-gorontalo" target="_blank"> GitHub</a>
+	
   </div>
 </body>
 </html>
