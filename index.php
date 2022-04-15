@@ -7,7 +7,7 @@
 		<link rel = "stylesheet" type="text/css" href="asset/bootstrap.min.css" />
 		
 		<script src="asset/jquery.slim.min.js"></script>
-		<script src="asset/bootstrap.bundle.min.js"></script>
+	<script src="asset/bootstrap.bundle.min.js"></script> -->
 	</head>
 <body>
 <!-- Page Content -->
@@ -70,6 +70,12 @@
       <a href="https://www.instagram.com/alverion.smansa/" class="d-block mb-4 h-100">
 	  <p> Alverion'21</p>
             <img class="img-fluid img-thumbnail" src="img/alverion.jpeg" alt="">
+          </a>
+    </div>
+	<div class="col-lg-3 col-md-4 col-6">
+      <a href="https://www.instagram.com/zevanos.smansa/" class="d-block mb-4 h-100">
+	  <p> Zevanos'22</p>
+            <img class="img-fluid img-thumbnail" src="img/zevanos.png" alt="">
           </a>
     </div>
 
